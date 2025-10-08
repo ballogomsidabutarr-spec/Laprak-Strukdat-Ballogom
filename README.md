@@ -1,0 +1,1 @@
+# ini-repo-strukdat-ballogom
