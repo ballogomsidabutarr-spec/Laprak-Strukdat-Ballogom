@@ -1,6 +1,6 @@
 # <h1 align="center">Laporan Praktikum ModulSingly Linked List (Bagian Pertama)
 </h1>
-<p align="center">Julian Putra Pamungkas</p>
+<p align="center">Ballogom Sidabutar</p>
 
 ## Dasar Teori
 
